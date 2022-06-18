@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.color-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.color-block {
+  height: 60px;
+  width: 60px;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.target-div {
+  height: 300px;
+  width: 300px;
+  border: 1px solid grey;
+  margin-left: 80px;
+  margin-top: 40px;
+}
